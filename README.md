@@ -5,8 +5,6 @@ Detects flood risk percentage and issues warnings to local people
 
 A machine learning-based flood warning system that analyzes environmental data to estimate the probability of flooding and provides early alerts to help communities prepare and respond effectively.
 
-# (Live demo): https://huggingface.co/spaces/srinu04/Flood_detection
-
 # Overview
 
 Floods are among the most devastating natural disasters, especially in monsoon-prone regions This project uses machine learning techniques to:
